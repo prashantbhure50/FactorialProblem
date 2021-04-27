@@ -1,0 +1,12 @@
+C:\Users\prash\source\repos\FactorialProblem\FactorialProblem\bin\Debug\netcoreapp3.1\FactorialProblem.exe
+C:\Users\prash\source\repos\FactorialProblem\FactorialProblem\bin\Debug\netcoreapp3.1\FactorialProblem.deps.json
+C:\Users\prash\source\repos\FactorialProblem\FactorialProblem\bin\Debug\netcoreapp3.1\FactorialProblem.runtimeconfig.json
+C:\Users\prash\source\repos\FactorialProblem\FactorialProblem\bin\Debug\netcoreapp3.1\FactorialProblem.runtimeconfig.dev.json
+C:\Users\prash\source\repos\FactorialProblem\FactorialProblem\bin\Debug\netcoreapp3.1\FactorialProblem.dll
+C:\Users\prash\source\repos\FactorialProblem\FactorialProblem\bin\Debug\netcoreapp3.1\FactorialProblem.pdb
+C:\Users\prash\source\repos\FactorialProblem\FactorialProblem\obj\Debug\netcoreapp3.1\FactorialProblem.AssemblyInfoInputs.cache
+C:\Users\prash\source\repos\FactorialProblem\FactorialProblem\obj\Debug\netcoreapp3.1\FactorialProblem.AssemblyInfo.cs
+C:\Users\prash\source\repos\FactorialProblem\FactorialProblem\obj\Debug\netcoreapp3.1\FactorialProblem.csproj.CoreCompileInputs.cache
+C:\Users\prash\source\repos\FactorialProblem\FactorialProblem\obj\Debug\netcoreapp3.1\FactorialProblem.dll
+C:\Users\prash\source\repos\FactorialProblem\FactorialProblem\obj\Debug\netcoreapp3.1\FactorialProblem.pdb
+C:\Users\prash\source\repos\FactorialProblem\FactorialProblem\obj\Debug\netcoreapp3.1\FactorialProblem.genruntimeconfig.cache
